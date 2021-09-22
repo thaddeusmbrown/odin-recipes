@@ -1,0 +1,24 @@
+* {
+    font-family: Arial, Helvetica, sans-serif;
+    color:darkred
+}
+
+h1 {
+    color: green;
+    font-weight: bolder;
+    text-align: center;
+}
+
+h2 {
+    color: darkgoldenrod;
+    font-style: italic;
+}
+
+h3 {
+    font-weight: bold;
+}
+
+img {
+    width: 800px;
+    height: auto;
+}
